@@ -1,4 +1,4 @@
-/* P-K Interiors — small, dependency-free interactions */
+/* P-B Interiors — small, dependency-free interactions */
 (() => {
   const header = document.querySelector('.site-header');
   const menuButton = document.querySelector('.menu-toggle');
