@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Custom furniture detail and finish">
+  <rect width="800" height="900" fill="#f7efe6"/>
+  <rect x="88" y="112" width="624" height="676" rx="28" fill="#efe2cb"/>
+  <rect x="170" y="198" width="216" height="220" rx="20" fill="#fffaf2"/>
+  <rect x="442" y="196" width="182" height="222" rx="20" fill="#b98f61"/>
+  <rect x="230" y="454" width="320" height="180" rx="18" fill="#fdf6ef"/>
+  <path d="M188 718h422" stroke="#8f7456" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="620" cy="286" r="70" fill="#a86d54" opacity="0.18"/>
+</svg>

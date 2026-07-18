@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Bedroom interior styling with soft custom furniture finish">
+  <rect width="800" height="900" fill="#f7efe6"/>
+  <rect x="90" y="118" width="620" height="664" rx="26" fill="#ece1cf"/>
+  <rect x="182" y="206" width="178" height="248" rx="20" fill="#fffaf2"/>
+  <rect x="418" y="212" width="182" height="214" rx="20" fill="#c5a57e"/>
+  <rect x="236" y="484" width="308" height="152" rx="20" fill="#fdf6ef"/>
+  <path d="M224 688h374" stroke="#8f7456" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="606" cy="324" r="60" fill="#a86d54" opacity="0.2"/>
+</svg>

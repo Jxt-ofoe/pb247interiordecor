@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Metal works fabrication detail">
+  <rect width="800" height="900" fill="#f6eee4"/>
+  <rect x="90" y="128" width="620" height="654" rx="28" fill="#ece0cb"/>
+  <rect x="180" y="214" width="198" height="194" rx="16" fill="#5f4f45"/>
+  <rect x="420" y="212" width="188" height="196" rx="16" fill="#fffaf2"/>
+  <path d="M258 454h300" stroke="#8f7456" stroke-width="10" stroke-linecap="round"/>
+  <path d="M288 496h240" stroke="#a86d54" stroke-width="8" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="620" cy="622" r="66" fill="#a86d54" opacity="0.2"/>
+</svg>

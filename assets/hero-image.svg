@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="P-K Interiors sample lounge setting">
+  <rect width="800" height="1000" fill="#f5efe6"/>
+  <rect x="78" y="126" width="644" height="748" rx="28" fill="#efe4d2"/>
+  <rect x="130" y="198" width="220" height="184" rx="18" fill="#c7aa86"/>
+  <rect x="378" y="200" width="226" height="160" rx="18" fill="#fffaf2"/>
+  <rect x="128" y="430" width="260" height="220" rx="18" fill="#fffaf2"/>
+  <rect x="412" y="424" width="186" height="224" rx="18" fill="#d6c2a1"/>
+  <rect x="316" y="582" width="198" height="170" rx="18" fill="#b79067"/>
+  <circle cx="628" cy="310" r="78" fill="#a86d54" opacity="0.22"/>
+  <path d="M148 758h512" stroke="#8f7456" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <path d="M176 392c47-20 87-54 114-102" stroke="#6d5438" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+  <path d="M560 712c28-27 59-44 122-38" stroke="#6d5438" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+</svg>
