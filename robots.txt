@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pkinteriors.com/sitemap.xml
+Sitemap: https://pb247interiordecor.com/sitemap.xml
 
 # Disallow temporary admin or test assets if present
 Disallow: /assets/*.bak
